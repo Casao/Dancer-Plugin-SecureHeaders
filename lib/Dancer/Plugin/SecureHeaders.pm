@@ -16,6 +16,8 @@ Version 0.1.0
 
 =cut
 
+=for HTML <a href="https://travis-ci.org/Casao/Dancer-Plugin-Paginate"><img src="https://travis-ci.org/Casao/Dancer-Plugin-Paginate.svg?branch=master"></a>
+
 our $VERSION = '0.1.0';
 
 =head1 DESCRIPTION
