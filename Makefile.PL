@@ -5,10 +5,10 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
     NAME             => 'Dancer::Plugin::SecureHeaders',
-    AUTHOR           => q{Ewen, Colin <draecas@gmail.com>},
+    AUTHOR           => q{Ewen, Colin (CASAO) <colin@draecas.com>},
     VERSION_FROM     => 'lib/Dancer/Plugin/SecureHeaders.pm',
     ABSTRACT_FROM    => 'lib/Dancer/Plugin/SecureHeaders.pm',
-    LICENSE          => 'Artistic_2_0',
+    LICENSE          => 'artistic_2',
     PL_FILES         => {},
     MIN_PERL_VERSION => 5.006,
     CONFIGURE_REQUIRES => {
