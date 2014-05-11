@@ -20,7 +20,7 @@ WriteMakefile(
     PREREQ_PM => {
         'Dancer' => 0
     },
-        TEST_REQUIRES => {
+    TEST_REQUIRES => {
         'YAML' => 0
     },
     dist  => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },

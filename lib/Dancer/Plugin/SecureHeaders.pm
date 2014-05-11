@@ -110,7 +110,7 @@ sub _add_header {
 
 =head1 AUTHOR
 
-Ewen, Colin, C<< <draecas at gmail.com> >>
+Ewen, Colin, C<< <colin at draecas.com> >>
 
 =head1 BUGS
 
