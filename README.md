@@ -4,7 +4,7 @@ Dancer::Plugin::SecureHeaders - Automate HTTP Security headers.
 
 # VERSION
 
-Version 1.0.1
+Version 1.0.2
 
 # DESCRIPTION
 
